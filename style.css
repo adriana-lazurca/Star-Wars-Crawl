@@ -1,0 +1,27 @@
+* {
+    
+    padding: 0;
+}
+
+body {
+  color: white;
+}
+
+.center-image {
+  background-image: url("./stars3.jpg");
+  background-repeat: no-repeat center fixed;
+  background-size: cover;
+  height: 100%;
+}
+
+h1 {
+  color: blue;
+}
+
+.center-content {
+  text-align: center;
+  margin: 0 auto;
+  width: 80%;
+  margin-top: 50px;
+  position: relative;
+}
