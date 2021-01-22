@@ -37,7 +37,7 @@ body {
   position: relative;
   top: 9999px;
   transform-origin: 50% 100%;
-  animation: crawl 10s linear;
+  animation: crawl 30s linear;
 }
 
 .move > .title {
@@ -94,3 +94,4 @@ h1 {
 .rotate-text {
   transform: rotateX(45deg);
 }
+
