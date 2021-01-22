@@ -36,12 +36,11 @@ body {
 .move {
   position: relative;
   top: 9999px;
-  transform-origin: 50% 100%;
   animation: crawl 30s linear;
 }
 
 .move > .title {
-  font-size: 90%;
+  font-size: 100%;
   text-align: center;
 }
 
